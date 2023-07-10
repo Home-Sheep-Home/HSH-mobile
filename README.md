@@ -1,2 +1,2 @@
 # HSH-mobile
-a mobile port for hsh
+a port of HSH for ios/android
